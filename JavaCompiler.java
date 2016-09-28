@@ -19,6 +19,9 @@ public class Regexmatch {
             String str = sc.nextLine();
             //replaces kung with if
             str = str.replaceAll("kung", "if");
+            str = str.replaceAll("labas", "out");
+            str = str.replaceAll("iprint", "println");
+            
             writer.println(str);
         }
         Runtime rt = Runtime.getRuntime();
