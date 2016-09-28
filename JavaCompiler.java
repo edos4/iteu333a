@@ -31,9 +31,10 @@ public class Regexmatch {
             //replaces if to kung
             str = str.replaceAll("if", "kung");
             System.out.println(str);
+            writer.println(str);
         }
         Runtime rt = Runtime.getRuntime();
-        rt.exec("javac " + System.getProperty("user.dir") + "\\out.java", null, new File("C:\\Program Files\\Java\\jdk1.8.0_71\\bin\\"));
+        rt.exec("javac " + System.getProperty("user.dir") + "\\Regexmatch.java", null, new File("C:\\Program Files\\Java\\jdk1.8.0_71\\bin\\"));
         writer.close();
 
         String command = "javac.exe " + System.getProperty("user.dir") + "\\Regexmatch.java";
