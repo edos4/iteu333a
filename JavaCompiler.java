@@ -17,7 +17,7 @@ public class Regexmatch {
 
         while (sc.hasNext()) {
             String str = sc.nextLine();
-            //replaces if to kung
+            //replaces kung with if
             str = str.replaceAll("kung", "if");
             writer.println(str);
         }
