@@ -6,9 +6,12 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
 
 public class Regexmatch {
+
     public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, IOException {
         Scanner sc = new Scanner(new FileReader("input.txt"));
 
@@ -21,18 +24,15 @@ public class Regexmatch {
             str = str.replaceAll("kung", "if");
             str = str.replaceAll("labas", "out");
             str = str.replaceAll("iprint", "println");
-            
+
             writer.println(str);
         }
-        Runtime rt = Runtime.getRuntime();
-        rt.exec("javac " + System.getProperty("user.dir") + "\\Test.java", null, new File("C:\\Program Files\\Java\\jdk1.8.0_71\\bin\\"));
         writer.close();
+        List cmdAndArgs = Arrays.asList("cmd", "/c", "run.bat");
+        File dir = new File(System.getProperty("user.dir"));
 
-        String command = "javac.exe " + System.getProperty("user.dir") + "\\Test.java";
-        try {
-            Process p = Runtime.getRuntime().exec(command);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+        ProcessBuilder pb = new ProcessBuilder(cmdAndArgs);
+        pb.directory(dir);
+        Process p = pb.start();
     }
 }
