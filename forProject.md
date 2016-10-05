@@ -4,7 +4,7 @@
 
 ##For leader:
 ###Trello
-- Create Trello board
+- Create Trello board. Make team name format `iteu-<team_name>`. Make board name format `iteu-<team_name>`.
 - Create Lists: Icebox, Backlog, Doing, For QA, Done
 - Invite your groupmates on Trello
 - Invite edsalinas7b@yahoo.com
