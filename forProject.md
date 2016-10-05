@@ -15,7 +15,7 @@
   - Open repository
   - Click settings
   - Click collaborators
-  - Input password
+  - Input password (if there is)
   - Input member's github username
   - Click add collaborator
 
