@@ -10,7 +10,7 @@
 - Invite edsalinas7b@yahoo.com
 
 ###Github
-- Create a repository for you group. Name should be iteu333a-project
+- Create a repository for you group. Name should be iteu333a-project. Make it public.
 - Invite members
   - Open repository
   - Click settings
