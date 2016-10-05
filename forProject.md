@@ -11,6 +11,7 @@
 
 ###Github
 - Create a repository for you group. Name should be iteu333a-project. Make it public.
+- Invite edos4
 - Invite members
   - Open repository
   - Click settings
