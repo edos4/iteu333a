@@ -1,4 +1,7 @@
 # Register on Trello
+##For members:
+- Create Trello account
+
 ##For leader:
 ###Trello
 - Create Trello board
