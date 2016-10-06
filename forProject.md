@@ -43,6 +43,8 @@
   - Click Git, click Clone
   - Paste repository URL
   - Click next, next, next/finish
+  - Click Create Project
+  - Java app, next, finish
   - Make changes (yung wholesome ha)
   - Add to git
     - Click Team, Click Add
