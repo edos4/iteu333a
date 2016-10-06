@@ -27,5 +27,13 @@
   - Click next, next, next/finish
   - Click Create Project
   - Java app, next, finish
+  - Add to git
+    - Click Team, Click Add
+  - Commit
+    - Click Team, click Commit
+    - Enter a descriptive message of what you've done
+    - Click commit
+  - Push to github
+    - Click Team, Remote, Push to Upstream, click yes
 
 
