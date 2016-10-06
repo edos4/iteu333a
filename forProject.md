@@ -19,5 +19,13 @@
   - Input password (if there is)
   - Input member's github username
   - Click add collaborator
+- Initial commit
+  - Open Netbeans
+  - Click Team
+  - Click Git, click Clone
+  - Paste repository URL
+  - Click next, next, next/finish
+  - Click Create Project
+  - Java app, next, finish
 
 
