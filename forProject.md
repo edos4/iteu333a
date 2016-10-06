@@ -36,4 +36,19 @@
   - Push to github
     - Click Team, Remote, Push to Upstream, click yes
 
-
+###For Members
+- Clone repository
+  - Open Netbeans
+  - Click Team
+  - Click Git, click Clone
+  - Paste repository URL
+  - Click next, next, next/finish
+  - Make changes (yung wholesome ha)
+  - Add to git
+    - Click Team, Click Add
+  - Commit
+    - Click Team, click Commit
+    - Enter a descriptive message of what you've done
+    - Click commit
+  - Push to github
+    - Click Team, Remote, Push to Upstream, click yes
