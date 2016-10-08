@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Lexical {
+public class JavaApplication3 {
     public static void main(String[] args) {
         
         Scanner in = new Scanner(System.in);
@@ -13,7 +13,11 @@ public class Lexical {
         Matcher wordmatcher = word.matcher(line);
         while(wordmatcher.find()){
             System.out.println("TOKEN: " + wordmatcher.group(0));
-            System.out.println("SYMBOLIC NAME: IDENTIFIER");
+            if( wordmatcher.group(0).matches("float|int|double")){
+                System.out.println("SYMBOLIC NAME: DATA TYPE");         
+            }else{
+                System.out.println("SYMBOLIC NAME: IDENTIFIER");
+            }
         }
         
         String digitpattern = "[0-9]*[0-9]";
