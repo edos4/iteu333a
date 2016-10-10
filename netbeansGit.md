@@ -23,6 +23,6 @@ Click project, click team, click git, click Initialize Repository
 ![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/5.initialize_repository.png)
 
 
-Enter your project's root path
+Enter your project's root path, click Ok
 
 ![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/6.initialize_repository_2.png)
