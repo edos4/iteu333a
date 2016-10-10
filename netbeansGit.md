@@ -9,6 +9,7 @@
 
 
 ## 3. Create workspace for ITEU
+Create a folder named `ITEU` under Libraries/Documents/NetBeansProjects
 ![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/3.create_workspace.png)
 
 
