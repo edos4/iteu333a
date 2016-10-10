@@ -39,7 +39,7 @@ Click `Team`, click `Commit`. If you have these files, click `Commit`. Else, rep
 Click `Team`, click `Remote`, click `Push`
 ![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/8.push.png)
 
-Supply your repository url. Format is: https://github.com/username/project_name.git . Then click `Next`. Check `master -> master` branch, click `Next`. Check `master -> origin/master`. Click `Finish` 
+Supply your repository url. Format is: https://github.com/username/project_name.git . Then click `Next`. Check `master -> master` branch, click `Next`. Check `master -> origin/master`. Click `Finish`. Replace `iteu333a` with `iteu333a-project`.
 ![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/8.push_2.png)
 
 ## 9. Refresh GitHub project page on GitHub (example: https://github.com/edos4/iteu333a)
