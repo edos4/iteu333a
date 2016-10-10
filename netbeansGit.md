@@ -14,3 +14,5 @@ Create a folder named `ITEU` under Libraries/Documents/NetBeansProjects
 
 
 ## 4. 
+Create project inside `ITEU` folder
+![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/4.create_project.png)
