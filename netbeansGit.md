@@ -52,3 +52,7 @@ It should contain your project folder. Now would be a good time to add your team
 * Input password (if there is)
 * Input member's github username
 * Click add collaborator
+
+## 11. Tell members to clone project so that they can collaborate
+![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/11.clone.png)
+
