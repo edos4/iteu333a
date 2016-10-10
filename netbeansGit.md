@@ -57,4 +57,11 @@ It should contain your project folder. Now would be a good time to add your team
 ![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/11.clone.png)
 
 ![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/12.clone_2.png)
+
 Then click `Finish`
+
+## 12. Collaborate
+* To pull: Team -> Remote -> Pull from Upstream
+* To add: Team -> Add
+* To commit: Team -> Commit
+* To push: Team -> Remote -> Push to Upstream
