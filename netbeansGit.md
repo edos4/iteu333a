@@ -13,6 +13,6 @@ Create a folder named `ITEU` under Libraries/Documents/NetBeansProjects
 ![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/3.create_workspace.png)
 
 
-## 4. 
+## 4. Create java project
 Create project inside `ITEU` folder then click `Finish`
 ![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/4.create_project.png)
