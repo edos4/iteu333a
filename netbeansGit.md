@@ -34,3 +34,9 @@ Click Project name on sidebar (GitTest for this example), click `Team`, click `A
 ## 7. Commit files
 Click `Team`, click `Commit`. If you have these files, click `Commit`. Else, repeat step 6. This is what you should see:
 ![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/7.commit.png)
+
+## 8. Push to GitHub
+Click `Team`, click `Remote`, click `Push`
+![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/8.push.png)
+
+
