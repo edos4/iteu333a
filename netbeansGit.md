@@ -39,4 +39,5 @@ Click `Team`, click `Commit`. If you have these files, click `Commit`. Else, rep
 Click `Team`, click `Remote`, click `Push`
 ![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/8.push.png)
 
-
+Supply your repository url. Format is: https://github.com/username/project_name.git
+![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/8.push_2.png)
