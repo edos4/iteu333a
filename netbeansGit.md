@@ -26,3 +26,11 @@ Click project, click team, click git, click Initialize Repository
 Enter your project's root path, click Ok
 
 ![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/6.initialize_repository_2.png)
+
+
+## 6. Add files
+Click Project name on sidebar (GitTest for this example), click `Team`, click `Add`
+
+## 7. Commit files
+Click `Team`, click `Commit`. If you have these files, click `Commit`. Else, repeat step 6. This is what you should see:
+![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/7.commit.png)
