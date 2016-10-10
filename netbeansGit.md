@@ -56,3 +56,5 @@ It should contain your project folder. Now would be a good time to add your team
 ## 11. Tell members to clone project so that they can collaborate
 ![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/11.clone.png)
 
+![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/12.clone_2.png)
+Then click `Finish`
