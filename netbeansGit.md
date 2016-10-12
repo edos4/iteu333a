@@ -18,6 +18,7 @@ Create a folder named `ITEU` under Libraries/Documents/NetBeansProjects
 
 ## 4. Create java project 
 //for leader if(isGroup && isFirstSetup)
+Instead of `GitTest`, name your project as `Iteu333a-project`
 Create project inside `ITEU` folder then click `Finish`
 ![This](https://raw.githubusercontent.com/edos4/iteu333a/master/assets/4.create_project.png)
 
