@@ -28,11 +28,5 @@ public class JavaCompiler {
             writer.println(str);
         }
         writer.close();
-        List cmdAndArgs = Arrays.asList("cmd", "/c", "run.bat");
-        File dir = new File(System.getProperty("user.dir"));
-
-        ProcessBuilder pb = new ProcessBuilder(cmdAndArgs);
-        pb.directory(dir);
-        Process p = pb.start();
     }
 }
