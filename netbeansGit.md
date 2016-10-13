@@ -78,4 +78,4 @@ Then click `Finish`
 * To pull: Team -> Remote -> Pull from Upstream
 * To add: Team -> Add
 * To commit: Team -> Commit
-* To push: Team -> Remote -> Push to Upstream
+* To push: Team -> Remote -> Push
